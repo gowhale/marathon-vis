@@ -101,4 +101,4 @@ print(points_added)
 print(markers_sum)
 
 
-paris_map.save('map.html')
+paris_map.save('src/index.html')
